@@ -19,11 +19,10 @@ git clone <repo-url>
 cd <project-folder>
 
 
-``
+
 ### 2. Install Dependencies
 pip install -r requirements.txt
 
-```b
 ###  3. Add Environment Variables
 
 GEMINI_API_KEY=your_gemini_api_key
